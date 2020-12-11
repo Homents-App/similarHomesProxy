@@ -52,7 +52,7 @@ module.exports = {
   },
   service2: {
     api: ['/similar-homes/67', '/similar-homes/favorites', '/new-listings/8', '/new-listing/favorites', '/new-listings-by-id/:id', '/update-posting/:id'],
-    url: 'http://localhost:3001/',
+    url: 'http://34.234.201.252:3001/',
     bundle: 'bundle.js',
   },
   service3: {
